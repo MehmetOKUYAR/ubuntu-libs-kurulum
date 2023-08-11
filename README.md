@@ -10,7 +10,7 @@
  `chmod +x ./`
 
 **2- Dosya izinleri verildikten sonra sırasıyla kurulum sh dosyları çalıştırılabilir**
-# çalıştırılırken terminalde ./dosya-ismi girilip enter tuşuna basılması yeterli
+### çalıştırılırken terminalde ./dosya-ismi girilip enter tuşuna basılması yeterli
 
 `./1-update-upgrade.sh`
 
